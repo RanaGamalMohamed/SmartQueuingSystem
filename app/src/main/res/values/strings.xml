@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">covid_smartqueueing</string>
+    <string-array name="spinner_items">
+         sinopharm astrazeneca
+        <item> Johnson</item>
+        <item> sinopharm </item>
+        <item> astrazeneca </item>
+    </string-array>
+    <string-array name="spinner_locations">
+        <item> Ain Shams hospital</item>
+        <item> El Maddie hospital</item>
+    </string-array>
+</resources>
